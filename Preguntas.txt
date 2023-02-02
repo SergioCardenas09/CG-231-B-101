@@ -1,0 +1,19 @@
+Ejercicio3.1 
+Cuando los tres factores de escala son iguales, se denomina escalado uniforme. Ahora, lee y contesta las siguientes cuestiones:
+
+1) ¿Que ocurre si los factores de escala son diferentes entre si?
+
+Cuando se le aplica un escalado de diferentes numeros tanto en sx, sy ,sz se estan variando los diferentes parametros de la figura la cual hace que se deforme 
+tanto como se quiera.
+
+2)¿Y si algun factor de escala es cero?
+
+cuando la escala es 0 en alguno de sus factores podemos decir que ese punto vuelve al origen deformando la figura ya sea en x en y o en z.
+
+3)¿Que ocurre si uno o varios factores de escala son negativos?
+
+La figura en uno o varios de sus puntos puede llevar a invertirse.
+
+4)¿Y si el factor de escala esta entre cero y uno?
+
+La figura se reduce respecto a la escala establecida ya que 1 es 100% y 0 es 0%.
